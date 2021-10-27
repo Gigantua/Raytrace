@@ -1,0 +1,1684 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SoftWx.Numerics</name>
+    </assembly>
+    <members>
+        <member name="T:SoftWx.Numerics.Base2Math">
+            <summary>
+                Numeric extension methods for base 2 math operations on integer numeric types.
+            </summary>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.Log2(System.Byte)">
+            <summary>
+                Returns the integer logarithm base 2 (Floor(Log2(value))) of the specified value
+                , or MaxValue if value is less than 1, to denote Log2 is undefined for such values.
+            </summary>
+            <remarks>Example: Log2(10) returns 3.</remarks>
+            <param name="value">The value whose base 2 log is desired.</param>
+            <returns>The base 2 log of a positive integer, or MaxValue when the value is less than 1.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.Log2(System.SByte)">
+            <summary>
+                Returns the integer logarithm base 2 (Floor(Log2(value))) of the specified value
+                , or -1 if value is less than 1, to denote Log2 is undefined for such values.
+            </summary>
+            <remarks>Example: Log2(10) returns 3.</remarks>
+            <param name="value">The value whose base 2 log is desired.</param>
+            <returns>The base 2 log of a positive integer, or -1 when the value is less than 1.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.Log2(System.UInt16)">
+            <summary>
+                Returns the integer logarithm base 2 (Floor(Log2(value))) of the specified value
+                , or MaxValue if value is less than 1, to denote Log2 is undefined for such values.
+            </summary>
+            <remarks>Example: Log2(10) returns 3.</remarks>
+            <param name="value">The value whose base 2 log is desired.</param>
+            <returns>The base 2 log of a positive integer, or MaxValue when the value is less than 1.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.Log2(System.Int16)">
+            <summary>
+                Returns the integer logarithm base 2 (Floor(Log2(value))) of the specified value
+                , or -1 if value is less than 1, to denote Log2 is undefined for such values.
+            </summary>
+            <remarks>Example: Log2(10) returns 3.</remarks>
+            <param name="value">The value whose base 2 log is desired.</param>
+            <returns>The base 2 log of a positive integer, or -1 when the value is less than 1.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.Log2(System.UInt32)">
+            <summary>
+                Returns the integer logarithm base 2 (Floor(Log2(value))) of the specified value
+                , or MaxValue if value is less than 1, to denote Log2 is undefined for such values.
+            </summary>
+            <remarks>Example: Log2(10) returns 3.</remarks>
+            <param name="value">The value whose base 2 log is desired.</param>
+            <returns>The base 2 log of a positive integer, or MaxValue when the value is less than 1.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.Log2(System.Int32)">
+            <summary>
+                Returns the integer logarithm base 2 (Floor(Log2(value))) of the specified value
+                , or -1 if value is less than 1, to denote Log2 is undefined for such values.
+            </summary>
+            <remarks>Example: Log2(10) returns 3.</remarks>
+            <param name="value">The value whose base 2 log is desired.</param>
+            <returns>The base 2 log of a positive integer, or -1 when the value is less than 1.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.Log2(System.UInt64)">
+            <summary>
+                Returns the integer logarithm base 2 (Floor(Log2(value))) of the specified value
+                , or MaxValue if value is less than 1, to denote Log2 is undefined for such values.
+            </summary>
+            <remarks>Example: Log2(10) returns 3.</remarks>
+            <param name="value">The value whose base 2 log is desired.</param>
+            <returns>The base 2 log of a positive integer, or MaxValue when the value is less than 1.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.Log2(System.Int64)">
+            <summary>
+                Returns the integer logarithm base 2 (Floor(Log2(value))) of the specified value
+                , or -1 if value is less than 1, to denote Log2 is undefined for such values.
+            </summary>
+            <remarks>Example: Log2(10) returns 3.</remarks>
+            <param name="value">The value whose base 2 log is desired.</param>
+            <returns>The base 2 log of a positive integer, or -1 when the value is less than 1.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.Log2(SoftWx.Numerics.UInt128)">
+            <summary>
+                Returns the integer logarithm base 2 (Floor(Log2(value))) of the specified value
+                , or MaxValue if value is less than 1, to denote Log2 is undefined for such values.
+            </summary>
+            <remarks>Example: Log2(10) returns 3.</remarks>
+            <param name="value">The value whose base 2 log is desired.</param>
+            <returns>The base 2 log of a positive integer, or MaxValue when the value is less than 1.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.IsPowerOf2(System.Byte)">
+            <summary>Determines if the specified value is a power of 2.</summary>
+            <param name="value">The value to be tested as a power of 2.</param>
+            <returns>True if the value is a power of 2, otherwise false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.IsPowerOf2(System.SByte)">
+            <summary>Determines if the specified value is a power of 2.</summary>
+            <param name="value">The value to be tested as a power of 2.</param>
+            <returns>True if the value is a power of 2, otherwise false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.IsPowerOf2(System.UInt16)">
+            <summary>Determines if the specified value is a power of 2.</summary>
+            <param name="value">The value to be tested as a power of 2.</param>
+            <returns>True if the value is a power of 2, otherwise false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.IsPowerOf2(System.Int16)">
+            <summary>Determines if the specified value is a power of 2.</summary>
+            <param name="value">The value to be tested as a power of 2.</param>
+            <returns>True if the value is a power of 2, otherwise false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.IsPowerOf2(System.UInt32)">
+            <summary>Determines if the specified value is a power of 2.</summary>
+            <param name="value">The value to be tested as a power of 2.</param>
+            <returns>True if the value is a power of 2, otherwise false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.IsPowerOf2(System.Int32)">
+            <summary>Determines if the specified value is a power of 2.</summary>
+            <param name="value">The value to be tested as a power of 2.</param>
+            <returns>True if the value is a power of 2, otherwise false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.IsPowerOf2(System.UInt64)">
+            <summary>Determines if the specified value is a power of 2.</summary>
+            <param name="value">The value to be tested as a power of 2.</param>
+            <returns>True if the value is a power of 2, otherwise false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.IsPowerOf2(System.Int64)">
+            <summary>Determines if the specified value is a power of 2.</summary>
+            <param name="value">The value to be tested as a power of 2.</param>
+            <returns>True if the value is a power of 2, otherwise false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.IsPowerOf2(SoftWx.Numerics.UInt128)">
+            <summary>Determines if the specified value is a power of 2.</summary>
+            <param name="value">The value to be tested as a power of 2.</param>
+            <returns>True if the value is a power of 2, otherwise false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Floor(System.Byte)">
+            <summary>Returns the nearest power of 2 that's equal or less than the specified value.</summary>
+            <remarks>Example: PowerOf2Floor(10) returns 8.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or less than the value parameter,
+                or 0 if the value is less than 1.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Floor(System.SByte)">
+            <summary>Returns the nearest power of 2 that's equal or less than the specified value.</summary>
+            <remarks>Example: PowerOf2Floor(10) returns 8.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or less than the value parameter,
+                or 0 if the value is less than 1.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Floor(System.UInt16)">
+            <summary>Returns the nearest power of 2 that's equal or less than the specified value.</summary>
+            <remarks>Example: PowerOf2Floor(10) returns 8.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or less than the value parameter,
+                or 0 if the value is less than 1.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Floor(System.Int16)">
+            <summary>Returns the nearest power of 2 that's equal or less than the specified value.</summary>
+            <remarks>Example: PowerOf2Floor(10) returns 8.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or less than the value parameter,
+                or 0 if the value is less than 1.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Floor(System.UInt32)">
+            <summary>Returns the nearest power of 2 that's equal or less than the specified value.</summary>
+            <remarks>Example: PowerOf2Floor(10) returns 8.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or less than the value parameter,
+                or 0 if the value is less than 1.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Floor(System.Int32)">
+            <summary>Returns the nearest power of 2 that's equal or less than the specified value.</summary>
+            <remarks>Example: PowerOf2Floor(10) returns 8.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or less than the value parameter,
+                or 0 if the value is less than 1.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Floor(System.UInt64)">
+            <summary>Returns the nearest power of 2 that's equal or less than the specified value.</summary>
+            <remarks>Example: PowerOf2Floor(10) returns 8.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or less than the value parameter,
+                or 0 if the value is less than 1.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Floor(System.Int64)">
+            <summary>Returns the nearest power of 2 that's equal or less than the specified value.</summary>
+            <remarks>Example: PowerOf2Floor(10) returns 8.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or less than the value parameter,
+                or 0 if the value is less than 1.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Floor(SoftWx.Numerics.UInt128)">
+            <summary>Returns the nearest power of 2 that's equal or less than the specified value.</summary>
+            <remarks>Example: PowerOf2Floor(10) returns 8.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or less than the value parameter,
+                or 0 if the value is less than 1.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Ceiling(System.Byte)">
+            <summary>Returns the nearest power of 2 that's equal or greater than the specified value.</summary>
+            <remarks>Example: PowerOf2Ceiling(10) returns 16.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or greater than the value parameter,
+                or 0 if the result would be greater than the type's maximum value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Ceiling(System.SByte)">
+            <summary>Returns the nearest power of 2 that's equal or greater than the specified value.</summary>
+            <remarks>Example: PowerOf2Ceiling(10) returns 16.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or greater than the value parameter,
+                or 0 if the result would be greater than the type's maximum value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Ceiling(System.UInt16)">
+            <summary>Returns the nearest power of 2 that's equal or greater than the specified value.</summary>
+            <remarks>Example: PowerOf2Ceiling(10) returns 16.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or greater than the value parameter,
+                or 0 if the result would be greater than the type's maximum value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Ceiling(System.Int16)">
+            <summary>Returns the nearest power of 2 that's equal or greater than the specified value.</summary>
+            <remarks>Example: PowerOf2Ceiling(10) returns 16.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or greater than the value parameter,
+                or 0 if the result would be greater than the type's maximum value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Ceiling(System.UInt32)">
+            <summary>Returns the nearest power of 2 that's equal or greater than the specified value.</summary>
+            <remarks>Example: PowerOf2Ceiling(10) returns 16.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or greater than the value parameter,
+                or 0 if the result would be greater than the type's maximum value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Ceiling(System.Int32)">
+            <summary>Returns the nearest power of 2 that's equal or greater than the specified value.</summary>
+            <remarks>Example: PowerOf2Ceiling(10) returns 16.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or greater than the value parameter,
+                or 0 if the result would be greater than the type's maximum value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Ceiling(System.UInt64)">
+            <summary>Returns the nearest power of 2 that's equal or greater than the specified value.</summary>
+            <remarks>Example: PowerOf2Ceiling(10) returns 16.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or greater than the value parameter,
+                or 0 if the result would be greater than the type's maximum value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Ceiling(System.Int64)">
+            <summary>Returns the nearest power of 2 that's equal or greater than the specified value.</summary>
+            <remarks>Example: PowerOf2Ceiling(10) returns 16.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or greater than the value parameter,
+                or 0 if the result would be greater than the type's maximum value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Base2Math.PowerOf2Ceiling(SoftWx.Numerics.UInt128)">
+            <summary>Returns the nearest power of 2 that's equal or greater than the specified value.</summary>
+            <remarks>Example: PowerOf2Ceiling(10) returns 16.</remarks>
+            <param name="value">The value whose nearest power of 2 is desired.</param>
+            <returns>
+                The nearest power of 2 that's equal or greater than the value parameter,
+                or 0 if the result would be greater than the type's maximum value.
+            </returns>
+        </member>
+        <member name="T:SoftWx.Numerics.BitMath">
+            <summary>
+                Numeric extension methods for bit fiddling operations on integer numeric types.
+            </summary>
+            <remarks>
+                Many of the bit fiddling methods are the result of benchmarking
+                various alternate algorithms presented on Sean Eron Anderson's page
+                http://graphics.stanford.edu/~seander/bithacks.html
+                sometimes with minor improvements for C#, and choosing compact
+                alternatives that perform well in C# for each data type.
+            </remarks>
+        </member>
+        <member name="F:SoftWx.Numerics.BitMath.msbPos256">
+            <summary>Lookup table for bit position of most significant bit.</summary>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBit(System.Byte)">
+            <summary>Returns the least significant set bit of the specified value.</summary>
+            <remarks>Example: LowBit(10) returns 2, i.e. low bit of 00001010 is 00000010.</remarks>
+            <param name="value">The value whose least significant bit is desired.</param>
+            <returns>The value parameter's the least significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBit(System.SByte)">
+            <summary>Returns the least significant set bit of the specified value.</summary>
+            <remarks>Example: LowBit(10) returns 2, i.e. low bit of 00001010 is 00000010.</remarks>
+            <param name="value">The value whose least significant bit is desired.</param>
+            <returns>The value parameter's the least significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBit(System.UInt16)">
+            <summary>Returns the least significant set bit of the specified value.</summary>
+            <remarks>Example: LowBit(10) returns 2, i.e. low bit of 00001010 is 00000010.</remarks>
+            <param name="value">The value whose least significant bit is desired.</param>
+            <returns>The value parameter's the least significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBit(System.Int16)">
+            <summary>Returns the least significant set bit of the specified value.</summary>
+            <remarks>Example: LowBit(10) returns 2, i.e. low bit of 00001010 is 00000010.</remarks>
+            <param name="value">The value whose least significant bit is desired.</param>
+            <returns>The value parameter's the least significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBit(System.UInt32)">
+            <summary>Returns the least significant set bit of the specified value.</summary>
+            <remarks>Example: LowBit(10) returns 2, i.e. low bit of 00001010 is 00000010.</remarks>
+            <param name="value">The value whose least significant bit is desired.</param>
+            <returns>The value parameter's the least significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBit(System.Int32)">
+            <summary>Returns the least significant set bit of the specified value.</summary>
+            <remarks>Example: LowBit(10) returns 2, i.e. low bit of 00001010 is 00000010.</remarks>
+            <param name="value">The value whose least significant bit is desired.</param>
+            <returns>The value parameter's the least significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBit(System.UInt64)">
+            <summary>Returns the least significant set bit of the specified value.</summary>
+            <remarks>Example: LowBit(10) returns 2, i.e. low bit of 00001010 is 00000010.</remarks>
+            <param name="value">The value whose least significant bit is desired.</param>
+            <returns>The value parameter's the least significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBit(System.Int64)">
+            <summary>Returns the least significant set bit of the specified value.</summary>
+            <remarks>Example: LowBit(10) returns 2, i.e. low bit of 00001010 is 00000010.</remarks>
+            <param name="value">The value whose least significant bit is desired.</param>
+            <returns>The value parameter's the least significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBit(SoftWx.Numerics.UInt128)">
+            <summary>Returns the least significant set bit of the specified value.</summary>
+            <remarks>Example: LowBit(10) returns 2, i.e. low bit of 00001010 is 00000010.</remarks>
+            <param name="value">The value whose least significant bit is desired.</param>
+            <returns>The value parameter's the least significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBit(System.Byte)">
+            <summary>Returns the most significant set bit of the specified value.</summary>
+            <remarks>Example: HighBit(10) returns 8, i.e. high bit of 00001010 is 00001000.</remarks>
+            <param name="value">The value whose most significant bit is desired.</param>
+            <returns>The value parameter's the most significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBit(System.SByte)">
+            <summary>Returns the most significant set bit of the specified value.</summary>
+            <remarks>Example: HighBit(10) returns 8, i.e. high bit of 00001010 is 00001000.</remarks>
+            <param name="value">The value whose most significant bit is desired.</param>
+            <returns>The value parameter's the most significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBit(System.UInt16)">
+            <summary>Returns the most significant set bit of the specified value.</summary>
+            <remarks>Example: HighBit(10) returns 8, i.e. high bit of 00001010 is 00001000.</remarks>
+            <param name="value">The value whose most significant bit is desired.</param>
+            <returns>The value parameter's the most significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBit(System.Int16)">
+            <summary>Returns the most significant set bit of the specified value.</summary>
+            <remarks>Example: HighBit(10) returns 8, i.e. high bit of 00001010 is 00001000.</remarks>
+            <param name="value">The value whose most significant bit is desired.</param>
+            <returns>The value parameter's the most significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBit(System.UInt32)">
+            <summary>Returns the most significant set bit of the specified value.</summary>
+            <remarks>Example: HighBit(10) returns 8, i.e. high bit of 00001010 is 00001000.</remarks>
+            <param name="value">The value whose most significant bit is desired.</param>
+            <returns>The value parameter's the most significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBit(System.Int32)">
+            <summary>Returns the most significant set bit of the specified value.</summary>
+            <remarks>Example: HighBit(10) returns 8, i.e. high bit of 00001010 is 00001000.</remarks>
+            <param name="value">The value whose most significant bit is desired.</param>
+            <returns>The value parameter's the most significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBit(System.UInt64)">
+            <summary>Returns the most significant set bit of the specified value.</summary>
+            <remarks>Example: HighBit(10) returns 8, i.e. high bit of 00001010 is 00001000.</remarks>
+            <param name="value">The value whose most significant bit is desired.</param>
+            <returns>The value parameter's the most significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBit(System.Int64)">
+            <summary>Returns the most significant set bit of the specified value.</summary>
+            <remarks>Example: HighBit(10) returns 8, i.e. high bit of 00001010 is 00001000.</remarks>
+            <param name="value">The value whose most significant bit is desired.</param>
+            <returns>The value parameter's the most significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBit(SoftWx.Numerics.UInt128)">
+            <summary>Returns the most significant set bit of the specified value.</summary>
+            <remarks>Example: HighBit(10) returns 8, i.e. high bit of 00001010 is 00001000.</remarks>
+            <param name="value">The value whose most significant bit is desired.</param>
+            <returns>The value parameter's the most significant bit.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBitPosition(System.Byte)">
+            <summary>
+                Returns the least significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: LowBitPosition(10) returns 1, i.e. low bit of 00001010 is position 1.</remarks>
+            <param name="value">The value whose least significant bit position is desired.</param>
+            <returns>The value parameter's least significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBitPosition(System.SByte)">
+            <summary>
+                Returns the least significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: LowBitPosition(10) returns 1, i.e. low bit of 00001010 is position 1.</remarks>
+            <param name="value">The value whose least significant bit position is desired.</param>
+            <returns>The value parameter's least significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBitPosition(System.UInt16)">
+            <summary>
+                Returns the least significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: LowBitPosition(10) returns 1, i.e. low bit of 00001010 is position 1.</remarks>
+            <param name="value">The value whose least significant bit position is desired.</param>
+            <returns>The value parameter's least significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBitPosition(System.Int16)">
+            <summary>
+                Returns the least significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: LowBitPosition(10) returns 1, i.e. low bit of 00001010 is position 1.</remarks>
+            <param name="value">The value whose least significant bit position is desired.</param>
+            <returns>The value parameter's least significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBitPosition(System.UInt32)">
+            <summary>
+                Returns the least significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: LowBitPosition(10) returns 1, i.e. low bit of 00001010 is position 1.</remarks>
+            <param name="value">The value whose least significant bit position is desired.</param>
+            <returns>The value parameter's least significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBitPosition(System.Int32)">
+            <summary>
+                Returns the least significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: LowBitPosition(10) returns 1, i.e. low bit of 00001010 is position 1.</remarks>
+            <param name="value">The value whose least significant bit position is desired.</param>
+            <returns>The value parameter's least significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBitPosition(System.UInt64)">
+            <summary>
+                Returns the least significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: LowBitPosition(10) returns 1, i.e. low bit of 00001010 is position 1.</remarks>
+            <param name="value">The value whose least significant bit position is desired.</param>
+            <returns>The value parameter's least significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBitPosition(System.Int64)">
+            <summary>
+                Returns the least significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: LowBitPosition(10) returns 1, i.e. low bit of 00001010 is position 1.</remarks>
+            <param name="value">The value whose least significant bit position is desired.</param>
+            <returns>The value parameter's least significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LowBitPosition(SoftWx.Numerics.UInt128)">
+            <summary>
+                Returns the least significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: LowBitPosition(10) returns 1, i.e. low bit of 00001010 is position 1.</remarks>
+            <param name="value">The value whose least significant bit position is desired.</param>
+            <returns>The value parameter's least significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBitPosition(System.Byte)">
+            <summary>
+                Returns the most significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: HighBitPosition(10) returns 3, i.e. high bit of 00001010 is position 3.</remarks>
+            <param name="value">The value whose most significant bit position is desired.</param>
+            <returns>The value parameter's most significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBitPosition(System.SByte)">
+            <summary>
+                Returns the most significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: HighBitPosition(10) returns 3, i.e. high bit of 00001010 is position 3.</remarks>
+            <param name="value">The value whose most significant bit position is desired.</param>
+            <returns>The value parameter's most significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBitPosition(System.UInt16)">
+            <summary>
+                Returns the most significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: HighBitPosition(10) returns 3, i.e. high bit of 00001010 is position 3.</remarks>
+            <param name="value">The value whose most significant bit position is desired.</param>
+            <returns>The value parameter's most significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBitPosition(System.Int16)">
+            <summary>
+                Returns the most significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: HighBitPosition(10) returns 3, i.e. high bit of 00001010 is position 3.</remarks>
+            <param name="value">The value whose most significant bit position is desired.</param>
+            <returns>The value parameter's most significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBitPosition(System.UInt32)">
+            <summary>
+                Returns the most significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: HighBitPosition(10) returns 3, i.e. high bit of 00001010 is position 3.</remarks>
+            <param name="value">The value whose most significant bit position is desired.</param>
+            <returns>The value parameter's most significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBitPosition(System.Int32)">
+            <summary>
+                Returns the most significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: HighBitPosition(10) returns 3, i.e. high bit of 00001010 is position 3.</remarks>
+            <param name="value">The value whose most significant bit position is desired.</param>
+            <returns>The value parameter's most significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBitPosition(System.UInt64)">
+            <summary>
+                Returns the most significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: HighBitPosition(10) returns 3, i.e. high bit of 00001010 is position 3.</remarks>
+            <param name="value">The value whose most significant bit position is desired.</param>
+            <returns>The value parameter's most significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBitPosition(System.Int64)">
+            <summary>
+                Returns the most significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: HighBitPosition(10) returns 3, i.e. high bit of 00001010 is position 3.</remarks>
+            <param name="value">The value whose most significant bit position is desired.</param>
+            <returns>The value parameter's most significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.HighBitPosition(SoftWx.Numerics.UInt128)">
+            <summary>
+                Returns the most significant set bit position of the specified value,
+                or -1 if no bits were set. The least significant bit position is 0.
+            </summary>
+            <remarks>Example: HighBitPosition(10) returns 3, i.e. high bit of 00001010 is position 3.</remarks>
+            <param name="value">The value whose most significant bit position is desired.</param>
+            <returns>The value parameter's most significant bit position.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.TrailingZeroBits(System.Byte)">
+            <summary>Returns the count of trailing zero bits in the specified value.</summary>
+            <remarks>Example: TrailingZeroBits(10) returns 1, i.e. 00001010 has 1 trailing 0 bit.</remarks>
+            <param name="value">The value whose trailing zero bit count is desired.</param>
+            <returns>The count of the value parameter's trailing zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.TrailingZeroBits(System.SByte)">
+            <summary>Returns the count of trailing zero bits in the specified value.</summary>
+            <remarks>Example: TrailingZeroBits(10) returns 1, i.e. 00001010 has 1 trailing 0 bit.</remarks>
+            <param name="value">The value whose trailing zero bit count is desired.</param>
+            <returns>The count of the value parameter's trailing zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.TrailingZeroBits(System.UInt16)">
+            <summary>Returns the count of trailing zero bits in the specified value.</summary>
+            <remarks>Example: TrailingZeroBits(10) returns 1, i.e. 00001010 has 1 trailing 0 bit.</remarks>
+            <param name="value">The value whose trailing zero bit count is desired.</param>
+            <returns>The count of the value parameter's trailing zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.TrailingZeroBits(System.Int16)">
+            <summary>Returns the count of trailing zero bits in the specified value.</summary>
+            <remarks>Example: TrailingZeroBits(10) returns 1, i.e. 00001010 has 1 trailing 0 bit.</remarks>
+            <param name="value">The value whose trailing zero bit count is desired.</param>
+            <returns>The count of the value parameter's trailing zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.TrailingZeroBits(System.UInt32)">
+            <summary>Returns the count of trailing zero bits in the specified value.</summary>
+            <remarks>Example: TrailingZeroBits(10) returns 1, i.e. 00001010 has 1 trailing 0 bit.</remarks>
+            <param name="value">The value whose trailing zero bit count is desired.</param>
+            <returns>The count of the value parameter's trailing zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.TrailingZeroBits(System.Int32)">
+            <summary>Returns the count of trailing zero bits in the specified value.</summary>
+            <remarks>Example: TrailingZeroBits(10) returns 1, i.e. 00001010 has 1 trailing 0 bit.</remarks>
+            <param name="value">The value whose trailing zero bit count is desired.</param>
+            <returns>The count of the value parameter's trailing zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.TrailingZeroBits(System.UInt64)">
+            <summary>Returns the count of trailing zero bits in the specified value.</summary>
+            <remarks>Example: TrailingZeroBits(10) returns 1, i.e. 00001010 has 1 trailing 0 bit.</remarks>
+            <param name="value">The value whose trailing zero bit count is desired.</param>
+            <returns>The count of the value parameter's trailing zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.TrailingZeroBits(System.Int64)">
+            <summary>Returns the count of trailing zero bits in the specified value.</summary>
+            <remarks>Example: TrailingZeroBits(10) returns 1, i.e. 00001010 has 1 trailing 0 bit.</remarks>
+            <param name="value">The value whose trailing zero bit count is desired.</param>
+            <returns>The count of the value parameter's trailing zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.TrailingZeroBits(SoftWx.Numerics.UInt128)">
+            <summary>Returns the count of trailing zero bits in the specified value.</summary>
+            <remarks>Example: TrailingZeroBits(10) returns 1, i.e. 00001010 has 1 trailing 0 bit.</remarks>
+            <param name="value">The value whose trailing zero bit count is desired.</param>
+            <returns>The count of the value parameter's trailing zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LeadingZeroBits(System.Byte)">
+            <summary>Returns the count of leading zero bits in the specified value.</summary>
+            <remarks>Example: LeadingZeroBits(10) returns 4, i.e. 00001010 has 4 leading 0 bits.</remarks>
+            <param name="value">The value whose leading zero bit count is desired.</param>
+            <returns>The count of the value parameter's leading zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LeadingZeroBits(System.SByte)">
+            <summary>Returns the count of leading zero bits in the specified value.</summary>
+            <remarks>Example: LeadingZeroBits(10) returns 4, i.e. 00001010 has 4 leading 0 bits.</remarks>
+            <param name="value">The value whose leading zero bit count is desired.</param>
+            <returns>The count of the value parameter's leading zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LeadingZeroBits(System.UInt16)">
+            <summary>Returns the count of leading zero bits in the specified value.</summary>
+            <remarks>Example: LeadingZeroBits(10) returns 4, i.e. 00001010 has 4 leading 0 bits.</remarks>
+            <param name="value">The value whose leading zero bit count is desired.</param>
+            <returns>The count of the value parameter's leading zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LeadingZeroBits(System.Int16)">
+            <summary>Returns the count of leading zero bits in the specified value.</summary>
+            <remarks>Example: LeadingZeroBits(10) returns 4, i.e. 00001010 has 4 leading 0 bits.</remarks>
+            <param name="value">The value whose leading zero bit count is desired.</param>
+            <returns>The count of the value parameter's leading zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LeadingZeroBits(System.UInt32)">
+            <summary>Returns the count of leading zero bits in the specified value.</summary>
+            <remarks>Example: LeadingZeroBits(10) returns 4, i.e. 00001010 has 4 leading 0 bits.</remarks>
+            <param name="value">The value whose leading zero bit count is desired.</param>
+            <returns>The count of the value parameter's leading zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LeadingZeroBits(System.Int32)">
+            <summary>Returns the count of leading zero bits in the specified value.</summary>
+            <remarks>Example: LeadingZeroBits(10) returns 4, i.e. 00001010 has 4 leading 0 bits.</remarks>
+            <param name="value">The value whose leading zero bit count is desired.</param>
+            <returns>The count of the value parameter's leading zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LeadingZeroBits(System.UInt64)">
+            <summary>Returns the count of leading zero bits in the specified value.</summary>
+            <remarks>Example: LeadingZeroBits(10) returns 4, i.e. 00001010 has 4 leading 0 bits.</remarks>
+            <param name="value">The value whose leading zero bit count is desired.</param>
+            <returns>The count of the value parameter's leading zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LeadingZeroBits(System.Int64)">
+            <summary>Returns the count of leading zero bits in the specified value.</summary>
+            <remarks>Example: LeadingZeroBits(10) returns 4, i.e. 00001010 has 4 leading 0 bits.</remarks>
+            <param name="value">The value whose leading zero bit count is desired.</param>
+            <returns>The count of the value parameter's leading zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.LeadingZeroBits(SoftWx.Numerics.UInt128)">
+            <summary>Returns the count of leading zero bits in the specified value.</summary>
+            <remarks>Example: LeadingZeroBits(10) returns 4, i.e. 00001010 has 4 leading 0 bits.</remarks>
+            <param name="value">The value whose leading zero bit count is desired.</param>
+            <returns>The count of the value parameter's leading zero bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.SignificantBits(System.Byte)">
+            <summary>Returns the count of bits up to and including the most significant bit for the specified value.</summary>
+            <remarks>Example: SignificantBits(6) returns 3, i.e. 00000110 has 3 significant bits.</remarks>
+            <param name="value">The value whose significant bit count is desired.</param>
+            <returns>The count of the value parameter's significant bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.SignificantBits(System.SByte)">
+            <summary>Returns the count of bits up to and including the most significant bit for the specified value.</summary>
+            <remarks>Example: SignificantBits(6) returns 3, i.e. 00000110 has 3 significant bits.</remarks>
+            <param name="value">The value whose significant bit count is desired.</param>
+            <returns>The count of the value parameter's significant bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.SignificantBits(System.UInt16)">
+            <summary>Returns the count of bits up to and including the most significant bit for the specified value.</summary>
+            <remarks>Example: SignificantBits(6) returns 3, i.e. 00000110 has 3 significant bits.</remarks>
+            <param name="value">The value whose significant bit count is desired.</param>
+            <returns>The count of the value parameter's significant bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.SignificantBits(System.Int16)">
+            <summary>Returns the count of bits up to and including the most significant bit for the specified value.</summary>
+            <remarks>Example: SignificantBits(6) returns 3, i.e. 00000110 has 3 significant bits.</remarks>
+            <param name="value">The value whose significant bit count is desired.</param>
+            <returns>The count of the value parameter's significant bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.SignificantBits(System.UInt32)">
+            <summary>Returns the count of bits up to and including the most significant bit for the specified value.</summary>
+            <remarks>Example: SignificantBits(6) returns 3, i.e. 00000110 has 3 significant bits.</remarks>
+            <param name="value">The value whose significant bit count is desired.</param>
+            <returns>The count of the value parameter's significant bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.SignificantBits(System.Int32)">
+            <summary>Returns the count of bits up to and including the most significant bit for the specified value.</summary>
+            <remarks>Example: SignificantBits(6) returns 3, i.e. 00000110 has 3 significant bits.</remarks>
+            <param name="value">The value whose significant bit count is desired.</param>
+            <returns>The count of the value parameter's significant bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.SignificantBits(System.UInt64)">
+            <summary>Returns the count of bits up to and including the most significant bit for the specified value.</summary>
+            <remarks>Example: SignificantBits(6) returns 3, i.e. 00000110 has 3 significant bits.</remarks>
+            <param name="value">The value whose significant bit count is desired.</param>
+            <returns>The count of the value parameter's significant bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.SignificantBits(System.Int64)">
+            <summary>Returns the count of bits up to and including the most significant bit for the specified value.</summary>
+            <remarks>Example: SignificantBits(6) returns 3, i.e. 00000110 has 3 significant bits.</remarks>
+            <param name="value">The value whose significant bit count is desired.</param>
+            <returns>The count of the value parameter's significant bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.SignificantBits(SoftWx.Numerics.UInt128)">
+            <summary>Returns the count of bits up to and including the most significant bit for the specified value.</summary>
+            <remarks>Example: SignificantBits(6) returns 3, i.e. 00000110 has 3 significant bits.</remarks>
+            <param name="value">The value whose significant bit count is desired.</param>
+            <returns>The count of the value parameter's significant bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.BitCount(System.Byte)">
+            <summary>Returns the count of set bits in the specified value.</summary>
+            <param name="value">The value whose bit count is desired.</param>
+            <returns>The count of set bits in the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.BitCount(System.SByte)">
+            <summary>Returns the count of set bits in the specified value.</summary>
+            <param name="value">The value whose bit count is desired.</param>
+            <returns>The count of set bits in the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.BitCount(System.UInt16)">
+            <summary>Returns the count of set bits in the specified value.</summary>
+            <param name="value">The value whose bit count is desired.</param>
+            <returns>The count of set bits in the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.BitCount(System.Int16)">
+            <summary>Returns the count of set bits in the specified value.</summary>
+            <param name="value">The value whose bit count is desired.</param>
+            <returns>The count of set bits in the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.BitCount(System.UInt32)">
+            <summary>Returns the count of set bits in the specified value.</summary>
+            <param name="value">The value whose bit count is desired.</param>
+            <returns>The count of set bits in the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.BitCount(System.Int32)">
+            <summary>Returns the count of set bits in the specified value.</summary>
+            <param name="value">The value whose bit count is desired.</param>
+            <returns>The count of set bits in the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.BitCount(System.UInt64)">
+            <summary>Returns the count of set bits in the specified value.</summary>
+            <param name="value">The value whose bit count is desired.</param>
+            <returns>The count of set bits in the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.BitCount(System.Int64)">
+            <summary>Returns the count of set bits in the specified value.</summary>
+            <param name="value">The value whose bit count is desired.</param>
+            <returns>The count of set bits in the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.BitCount(SoftWx.Numerics.UInt128)">
+            <summary>Returns the count of set bits in the specified value.</summary>
+            <param name="value">The value whose bit count is desired.</param>
+            <returns>The count of set bits in the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.ReverseBits(System.Byte)">
+            <summary>
+                Returns the specified value with all bits reversed
+                (i.e. 01001101 is returned as 10110010).
+            </summary>
+            <param name="value">The value to be reversed.</param>
+            <returns>The reversed bits of the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.ReverseBits(System.SByte)">
+            <summary>
+                Returns the specified value with all bits reversed
+                (i.e. 01001101 is returned as 10110010).
+            </summary>
+            <param name="value">The value to be reversed.</param>
+            <returns>The reversed bits of the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.ReverseBits(System.UInt16)">
+            <summary>
+                Returns the specified value with all bits reversed
+                (i.e. 01001101 is returned as 10110010).
+            </summary>
+            <param name="value">The value to be reversed.</param>
+            <returns>The reversed bits of the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.ReverseBits(System.Int16)">
+            <summary>
+                Returns the specified value with all bits reversed
+                (i.e. 01001101 is returned as 10110010).
+            </summary>
+            <param name="value">The value to be reversed.</param>
+            <returns>The reversed bits of the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.ReverseBits(System.UInt32)">
+            <summary>
+                Returns the specified value with all bits reversed
+                (i.e. 01001101 is returned as 10110010).
+            </summary>
+            <param name="value">The value to be reversed.</param>
+            <returns>The reversed bits of the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.ReverseBits(System.Int32)">
+            <summary>
+                Returns the specified value with all bits reversed
+                (i.e. 01001101 is returned as 10110010).
+            </summary>
+            <param name="value">The value to be reversed.</param>
+            <returns>The reversed bits of the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.ReverseBits(System.UInt64)">
+            <summary>
+                Returns the specified value with all bits reversed
+                (i.e. 01001101 is returned as 10110010).
+            </summary>
+            <param name="value">The value to be reversed.</param>
+            <returns>The reversed bits of the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.ReverseBits(System.Int64)">
+            <summary>
+                Returns the specified value with all bits reversed
+                (i.e. 01001101 is returned as 10110010).
+            </summary>
+            <param name="value">The value to be reversed.</param>
+            <returns>The reversed bits of the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.BitMath.ReverseBits(SoftWx.Numerics.UInt128)">
+            <summary>
+                Returns the specified value with all bits reversed
+                (i.e. 01001101 is returned as 10110010).
+            </summary>
+            <param name="value">The value to be reversed.</param>
+            <returns>The reversed bits of the specified value.</returns>
+        </member>
+        <member name="T:SoftWx.Numerics.Math">
+            <summary>
+                Numeric extension methods for general math operations on integer numeric types.
+            </summary>
+        </member>
+        <member name="M:SoftWx.Numerics.Math.AbsU(System.SByte)">
+            <summary>
+                Returns the absolute value of the specified signed value
+                as a corresponding unsigned type. Absolute value of MinValue is
+                properly handled, without overflow.
+            </summary>
+            <param name="value">The value whose absolute value is desired.</param>
+            <returns>The absolute value in the corresponding unsigned type.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Math.AbsU(System.Int16)">
+            <summary>
+                Returns the absolute value of the specified signed value
+                as a corresponding unsigned type. Absolute value of MinValue is
+                properly handled, without overflow.
+            </summary>
+            <param name="value">The value whose absolute value is desired.</param>
+            <returns>The absolute value in the corresponding unsigned type.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Math.AbsU(System.Int32)">
+            <summary>
+                Returns the absolute value of the specified signed value
+                as a corresponding unsigned type. Absolute value of MinValue is
+                properly handled, without overflow.
+            </summary>
+            <param name="value">The value whose absolute value is desired.</param>
+            <returns>The absolute value in the corresponding unsigned type.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Math.AbsU(System.Int64)">
+            <summary>
+                Returns the absolute value of the specified signed value
+                as a corresponding unsigned type. Absolute value of MinValue is
+                properly handled, without overflow.
+            </summary>
+            <param name="value">The value whose absolute value is desired.</param>
+            <returns>The absolute value in the corresponding unsigned type.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Math.MulMod(System.Byte,System.Byte,System.Byte)">
+            <summary>Compute the modulo (division remainder) of a number multiplied by another number.</summary>
+            <remarks>Overflow safe for all input values. </remarks>
+            <param name="value1">The number to be multiplied by value2.</param>
+            <param name="value2">The number to be multiplied by value1.</param>
+            <param name="modulus">The number by which to divide value raised to the exponent power.</param>
+            <returns>The remainder after dividing the product of multiplying value1 and value2.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Math.MulMod(System.SByte,System.SByte,System.SByte)">
+            <summary>Compute the modulo (division remainder) of a number multiplied by another number.</summary>
+            <remarks>Overflow safe for all input values. </remarks>
+            <param name="value1">The number to be multiplied by value2.</param>
+            <param name="value2">The number to be multiplied by value1.</param>
+            <param name="modulus">The number by which to divide value raised to the exponent power.</param>
+            <returns>The remainder after dividing the product of multiplying value1 and value2.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Math.MulMod(System.UInt16,System.UInt16,System.UInt16)">
+            <summary>Compute the modulo (division remainder) of a number multiplied by another number.</summary>
+            <remarks>Overflow safe for all input values. </remarks>
+            <param name="value1">The number to be multiplied by value2.</param>
+            <param name="value2">The number to be multiplied by value1.</param>
+            <param name="modulus">The number by which to divide value raised to the exponent power.</param>
+            <returns>The remainder after dividing the product of multiplying value1 and value2.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Math.MulMod(System.Int16,System.Int16,System.Int16)">
+            <summary>Compute the modulo (division remainder) of a number multiplied by another number.</summary>
+            <remarks>Overflow safe for all input values. </remarks>
+            <param name="value1">The number to be multiplied by value2.</param>
+            <param name="value2">The number to be multiplied by value1.</param>
+            <param name="modulus">The number by which to divide value raised to the exponent power.</param>
+            <returns>The remainder after dividing the product of multiplying value1 and value2.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Math.MulMod(System.UInt32,System.UInt32,System.UInt32)">
+            <summary>Compute the modulo (division remainder) of a number multiplied by another number.</summary>
+            <remarks>Overflow safe for all input values. </remarks>
+            <param name="value1">The number to be multiplied by value2.</param>
+            <param name="value2">The number to be multiplied by value1.</param>
+            <param name="modulus">The number by which to divide value raised to the exponent power.</param>
+            <returns>The remainder after dividing the product of multiplying value1 and value2.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Math.MulMod(System.Int32,System.Int32,System.Int32)">
+            <summary>Compute the modulo (division remainder) of a number multiplied by another number.</summary>
+            <remarks>Overflow safe for all input values. </remarks>
+            <param name="value1">The number to be multiplied by value2.</param>
+            <param name="value2">The number to be multiplied by value1.</param>
+            <param name="modulus">The number by which to divide value raised to the exponent power.</param>
+            <returns>The remainder after dividing the product of multiplying value1 and value2.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Math.MulMod(System.UInt64,System.UInt64,System.UInt64)">
+            <summary>Compute the modulo (division remainder) of a number multiplied by another number.</summary>
+            <remarks>Overflow safe for all input values. </remarks>
+            <param name="value1">The number to be multiplied by value2.</param>
+            <param name="value2">The number to be multiplied by value1.</param>
+            <param name="modulus">The number by which to divide value raised to the exponent power.</param>
+            <returns>The remainder after dividing the product of multiplying value1 and value2.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Math.MulMod(System.Int64,System.Int64,System.Int64)">
+            <summary>Compute the modulo (division remainder) of a number multiplied by another number.</summary>
+            <remarks>Overflow safe for all input values. </remarks>
+            <param name="value1">The number to be multiplied by value2.</param>
+            <param name="value2">The number to be multiplied by value1.</param>
+            <param name="modulus">The number by which to divide value raised to the exponent power.</param>
+            <returns>The remainder after dividing the product of multiplying value1 and value2.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Math.ModPow(System.UInt32,System.UInt32,System.UInt32)">
+            <summary>
+                Compute the modulo (division remainder) of a number raised to the power
+                of another number.
+            </summary>
+            <remarks>Overflow safe for all input values. </remarks>
+            <param name="value">The number to raise to the exponent power.</param>
+            <param name="exponent">The exponent to raise value by.</param>
+            <param name="modulus">The number by which to divide value raised to the exponent power.</param>
+            <returns>The remainder after dividing value raised to the exponent power.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.Math.ModPow(System.UInt64,System.UInt64,System.UInt64)">
+            <summary>
+                Compute the modulo (division remainder) of a number raised to the power
+                of another number.
+            </summary>
+            <remarks>Overflow safe for all input values. </remarks>
+            <param name="value">The number to raise to the exponent power.</param>
+            <param name="exponent">The exponent to raise value by.</param>
+            <param name="modulus">The number by which to divide value raised to the exponent power.</param>
+            <returns>The remainder after dividing value raised to the exponent power.</returns>
+        </member>
+        <member name="T:SoftWx.Numerics.PrimeMath">
+            <summary>
+                Numeric extension methods for math operations related to prime numbers
+                for integer numeric types.
+            </summary>
+            <remarks>
+                Methods for byte, sbyte, ushort and short are not included,
+                as there is little or no advantage that can be gained by their smaller
+                size, and implementations would merely be wrappers that upcast to uint
+                and int. Callers can do that themselves, and it will even be slightly
+                faster too. Examples:
+                byte b1, b2, br; b1 = 100; b2 = 101;
+                br = (byte)PrimeMath.Gcd(b1, b2); //will implicitly upcast to uint
+                or
+                br = (byte)((uint)b1).Gcd(b2)
+            </remarks>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.Gcd(System.UInt32,System.UInt32)">
+            <summary>Computes the greatest common divisor of two values.</summary>
+            <param name="value1">The first value.</param>
+            <param name="value2">The other value.</param>
+            <returns>The greatest common divisor of the two values.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.Gcd(System.Int32,System.Int32)">
+            <summary>Computes the greatest common divisor of two values.</summary>
+            <param name="value1">The first value.</param>
+            <param name="value2">The other value.</param>
+            <returns>The greatest common divisor of the two values.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.Gcd(System.UInt64,System.UInt64)">
+            <summary>Computes the greatest common divisor of two values.</summary>
+            <param name="value1">The first value.</param>
+            <param name="value2">The other value.</param>
+            <remarks>
+                This is the Euclidean algorithm with a modification that
+                does mod by subtraction when the two values are close to each
+                other. This was the result of experimenting with the iterative
+                binary GCD algorithm, which gave great results for most inputs,
+                but such terrible results for some inputs that it was on average
+                worse than straight Euclidean within the range of ints dealt with.
+                But adding some subtration mod into Euclidean outperformed both.
+                Also adding in the shifting of even values from binary GCD did not
+                help. While the subtraction mod modification helped greatly with
+                ulong values, and somewhat with UInt128 values, it didn't noticeably
+                improve GCD of the uint value range.
+            </remarks>
+            <returns>The greatest common divisor of the two values.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.Gcd(System.Int64,System.Int64)">
+            <summary>Computes the greatest common divisor of two values.</summary>
+            <param name="value1">The first value.</param>
+            <param name="value2">The other value.</param>
+            <returns>The greatest common divisor of the two values.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.Gcd(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Computes the greatest common divisor of two values.</summary>
+            <param name="value1">The first value.</param>
+            <param name="value2">The other value.</param>
+            <remarks>
+                It's faster to do the mod by subtraction by trying it a few
+                times rather than testing first as done in the ulong version. This is
+                probably because the shift operation and the greater than test is more
+                expensive for UInt128.
+            </remarks>
+            <returns>The greatest common divisor of the two values.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.IsCoprime(System.UInt32,System.UInt32)">
+            <summary>Determines if the specified values are coprime to each other.</summary>
+            <param name="value1">The value to be tested.</param>
+            <param name="value2">The other value to be tested.</param>
+            <returns>True if the values are coprime to each other, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.IsCoprime(System.Int32,System.Int32)">
+            <summary>Determines if the specified values are coprime to each other.</summary>
+            <param name="value1">The value to be tested.</param>
+            <param name="value2">The other value to be tested.</param>
+            <returns>True if the values are coprime to each other, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.IsCoprime(System.UInt64,System.UInt64)">
+            <summary>Determines if the specified values are coprime to each other.</summary>
+            <param name="value1">The value to be tested.</param>
+            <param name="value2">The other value to be tested.</param>
+            <returns>True if the values are coprime to each other, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.IsCoprime(System.Int64,System.Int64)">
+            <summary>Determines if the specified values are coprime to each other.</summary>
+            <param name="value1">The value to be tested.</param>
+            <param name="value2">The other value to be tested.</param>
+            <returns>True if the values are coprime to each other, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.IsCoprime(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Determines if the specified values are coprime to each other.</summary>
+            <param name="value1">The value to be tested.</param>
+            <param name="value2">The other value to be tested.</param>
+            <returns>True if the values are coprime to each other, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestCoprimeFloor(System.UInt32,System.UInt32)">
+            <summary>
+                Computes the nearest number less than or equal to the
+                specified start value that is coprime to another specified value.
+                Returns 0 if no coprime was found in the range MinValue to start.
+            </summary>
+            <param name="start">The start value.</param>
+            <param name="value2">The value to test against.</param>
+            <returns>
+                The largest value that is less than or equal to the start value
+                and also coprime to the other specified value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestCoprimeFloor(System.Int32,System.Int32)">
+            <summary>
+                Computes the nearest number less than or equal to the
+                specified start value that is coprime to another specified value.
+                Returns 0 if no coprime was found in the range MinValue to start.
+            </summary>
+            <param name="start">The start value.</param>
+            <param name="value2">The value to test against.</param>
+            <returns>
+                The largest value that is less than or equal to the start value
+                and also coprime to the other specified value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestCoprimeFloor(System.UInt64,System.UInt64)">
+            <summary>
+                Computes the nearest number less than or equal to the
+                specified start value that is coprime to another specified value.
+                Returns 0 if no coprime was found in the range MinValue to start.
+            </summary>
+            <param name="start">The start value.</param>
+            <param name="value2">The value to test against.</param>
+            <returns>
+                The largest value that is less than or equal to the start value
+                and also coprime to the other specified value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestCoprimeFloor(System.Int64,System.Int64)">
+            <summary>
+                Computes the nearest number less than or equal to the
+                specified start value that is coprime to another specified value.
+                Returns 0 if no coprime was found in the range MinValue to start.
+            </summary>
+            <param name="start">The start value.</param>
+            <param name="value2">The value to test against.</param>
+            <returns>
+                The largest value that is less than or equal to the start value
+                and also coprime to the other specified value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestCoprimeFloor(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>
+                Computes the nearest number less than or equal to the
+                specified start value that is coprime to another specified value.
+                Returns 0 if no coprime was found in the range MinValue to start.
+            </summary>
+            <param name="start">The start value.</param>
+            <param name="value2">The value to test against.</param>
+            <returns>
+                The largest value that is less than or equal to the start value
+                and also coprime to the other specified value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestCoprimeCeiling(System.UInt32,System.UInt32)">
+            <summary>
+                Computes the nearest number greater than or equal to the
+                specified start value that is coprime to another specified value.
+                Returns 0 if no coprime was found in the range start to MaxValue.
+            </summary>
+            <param name="start">The start value.</param>
+            <param name="value2">The value to test against.</param>
+            <returns>
+                The largest value that is less than or equal to the start value
+                and also coprime to the other specified value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestCoprimeCeiling(System.Int32,System.Int32)">
+            <summary>
+                Computes the nearest number greater than or equal to the
+                specified start value that is coprime to another specified value.
+                Returns 0 if no coprime was found in the range start to MaxValue.
+            </summary>
+            <param name="start">The start value.</param>
+            <param name="value2">The value to test against.</param>
+            <returns>
+                The largest value that is less than or equal to the start value
+                and also coprime to the other specified value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestCoprimeCeiling(System.UInt64,System.UInt64)">
+            <summary>
+                Computes the nearest number greater than or equal to the
+                specified start value that is coprime to another specified value.
+                Returns 0 if no coprime was found in the range start to MaxValue.
+            </summary>
+            <param name="start">The start value.</param>
+            <param name="value2">The value to test against.</param>
+            <returns>
+                The largest value that is less than or equal to the start value
+                and also coprime to the other specified value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestCoprimeCeiling(System.Int64,System.Int64)">
+            <summary>
+                Computes the nearest number greater than or equal to the
+                specified start value that is coprime to another specified value.
+                Returns 0 if no coprime was found in the range start to MaxValue.
+            </summary>
+            <param name="start">The start value.</param>
+            <param name="value2">The value to test against.</param>
+            <returns>
+                The largest value that is less than or equal to the start value
+                and also coprime to the other specified value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestCoprimeCeiling(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>
+                Computes the nearest number greater than or equal to the
+                specified start value that is coprime to another specified value.
+                Returns 0 if no coprime was found in the range start to MaxValue.
+            </summary>
+            <param name="start">The start value.</param>
+            <param name="value2">The value to test against.</param>
+            <returns>
+                The largest value that is less than or equal to the start value
+                and also coprime to the other specified value.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.IsPrime(System.UInt32)">
+            <summary>Determines if the specified value is a prime number.</summary>
+            <remarks>
+                This method chooses the best algorithm to use based on
+                the magnitude of the specified value. For smaller values, a
+                simple trial division algorithm is used. For larger values, a
+                deterministic version of the Miller-Rabin algorithm is used.
+            </remarks>
+            <param name="value">The value to be tested for primality.</param>
+            <returns>True if the value is prime, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.IsPrime(System.Int32)">
+            <summary>Determines if the specified value is a prime number.</summary>
+            <remarks>
+                This method chooses the best algorithm to use based on
+                the magnitude of the specified value. For smaller values, a
+                simple trial division algorithm is used. For larger values, a
+                deterministic version of the Miller-Rabin algorithm is used.
+            </remarks>
+            <param name="value">The value to be tested for primality.</param>
+            <returns>True if the value is prime, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.IsPrime(System.UInt64)">
+            <summary>Determines if the specified value is a prime number.</summary>
+            <remarks>
+                This method chooses the best algorithm to use based on
+                the magnitude of the specified value. For smaller values, a
+                simple trial division algorithm is used. For larger values, a
+                deterministic version of the Miller-Rabin algorithm is used.
+            </remarks>
+            <param name="value">The value to be tested for primality.</param>
+            <returns>True if the value is prime, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.IsPrime(System.Int64)">
+            <summary>Determines if the specified value is a prime number.</summary>
+            <remarks>
+                This method chooses the best algorithm to use based on
+                the magnitude of the specified value. For smaller values, a
+                simple trial division algorithm is used. For larger values, a
+                deterministic version of the Miller-Rabin algorithm is used.
+            </remarks>
+            <param name="value">The value to be tested for primality.</param>
+            <returns>True if the value is prime, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestPrimeFloor(System.UInt32)">
+            <summary>
+                Computes the prime number nearest, but not greater than the specified start value.
+                Returns zero if the start value is less than 2.
+            </summary>
+            <param name="value">
+                The largest value that is a prime number, and is less than
+                or equal to the start value.
+            </param>
+            <returns>The nearest prime number that is less than or equal to the initial value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestPrimeFloor(System.Int32)">
+            <summary>
+                Computes the prime number nearest, but not greater than the specified start value.
+                Returns zero if the start value is less than 2.
+            </summary>
+            <param name="value">
+                The largest value that is a prime number, and is less than
+                or equal to the start value.
+            </param>
+            <returns>The nearest prime number that is less than or equal to the initial value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestPrimeFloor(System.UInt64)">
+            <summary>
+                Computes the prime number nearest, but not greater than the specified start value.
+                Returns zero if the start value is less than 2.
+            </summary>
+            <param name="value">
+                The largest value that is a prime number, and is less than
+                or equal to the start value.
+            </param>
+            <returns>The nearest prime number that is less than or equal to the initial value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestPrimeFloor(System.Int64)">
+            <summary>
+                Computes the prime number nearest, but not greater than the specified start value.
+                Returns zero if the start value is less than 2.
+            </summary>
+            <param name="value">
+                The largest value that is a prime number, and is less than
+                or equal to the start value.
+            </param>
+            <returns>The nearest prime number that is less than or equal to the initial value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestPrimeCeiling(System.UInt32)">
+            <summary>
+                Computes the prime number nearest, but not smaller than the specified start value.
+                Returns zero if no solutions are in the range of start value to uint.MaxValue.
+            </summary>
+            <param name="value">The start value.</param>
+            <returns>The nearest prime number that is greater than or equal to the initial value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestPrimeCeiling(System.Int32)">
+            <summary>
+                Computes the prime number nearest, but not smaller than the specified start value.
+                Because int.MaxValue is a prime number, all inputs will produced a valid prime.
+            </summary>
+            <param name="value">The start value.</param>
+            <returns>The nearest prime number that is greater than or equal to the initial value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestPrimeCeiling(System.UInt64)">
+            <summary>
+                Computes the prime number nearest, but not smaller than the specified start value.
+                Returns zero if no solutions are in the range of start value to ulong.MaxValue.
+            </summary>
+            <param name="value">The start value.</param>
+            <returns>The nearest prime number that is greater than or equal to the initial value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.NearestPrimeCeiling(System.Int64)">
+            <summary>
+                Computes the prime number nearest, but not smaller than the specified start value.
+                Returns zero if no solutions are in the range of start value to long.MaxValue.
+            </summary>
+            <param name="value">The start value.</param>
+            <returns>The nearest prime number that is greater than or equal to the initial value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.InternalMillerRabin(System.UInt32,System.UInt64[])">
+            <summary>
+                Determines if the specified odd value, >= 3 value is a prime number, using the
+                Miller-Rabin algorithm.
+            </summary>
+            <param name="value">The uint value (which must be odd and >=3) to be tested for primality.</param>
+            <param name="witnesses">The witnesses to be used.</param>
+            <returns>True if the value is prime, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.PrimeMath.InternalMillerRabin(System.UInt64,System.UInt64[])">
+            <summary>
+                Determines if the specified odd value, >= 3 is a prime number, using the
+                Miller-Rabin algorithm.
+            </summary>
+            <param name="value">The uint value (which must be odd and > uint.MaxValue) to be tested for primality.</param>
+            <param name="witnesses">The witnesses to be used.</param>
+            <returns>True if the value is prime, otherwise, false.</returns>
+        </member>
+        <member name="T:SoftWx.Numerics.UInt128">
+            <summary>Represents a 128-bit unsigned integer.</summary>
+            <remarks>The UInt128 struct is immutable.</remarks>
+        </member>
+        <member name="F:SoftWx.Numerics.UInt128.Zero">
+            <summary>Gets a value that represents the number 0 (zero).</summary>
+        </member>
+        <member name="F:SoftWx.Numerics.UInt128.One">
+            <summary>Gets a value that represents the number 1 (one).</summary>
+        </member>
+        <member name="F:SoftWx.Numerics.UInt128.MaxValue">
+            <summary>Represents the largest possible value of UInt128.</summary>
+        </member>
+        <member name="F:SoftWx.Numerics.UInt128.MinValue">
+            <summary>Represents the smallest possible value of UInt128.</summary>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.Multiply(System.UInt64,System.UInt64)">
+            <summary>Computes the 128 bit product of two 64 bit unsigned integers.</summary>
+            <param name="left">The value to be multiplied by right.</param>
+            <param name="right">The value to be multiplied by left.</param>
+            <returns>The UInt128 product of multiplying left and right.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.Square(System.UInt64)">
+            <summary>Computes the 128 bit product of squaring a 64 bit unsigned integer.</summary>
+            <param name="value">The value to be squared (multiplied by itself).</param>
+            <returns>The UInt128 product of squaring the specified value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.#ctor(System.UInt64,System.UInt64)">
+            <summary>Creates an instance of UInt128.</summary>
+            <param name="high">The most significant 64 bits.</param>
+            <param name="low">The least significant 64 bits.</param>
+        </member>
+        <member name="P:SoftWx.Numerics.UInt128.IsULong">
+            <summary>Determines if the UInt128 value is less than or equal to UInt64.MaxValue.</summary>
+        </member>
+        <member name="P:SoftWx.Numerics.UInt128.Low">
+            <summary>Returns the lower 64 bits of the UInt128 value.</summary>
+        </member>
+        <member name="P:SoftWx.Numerics.UInt128.High">
+            <summary>Returns the upper 64 bits of the UInt128 value.</summary>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.Equals(SoftWx.Numerics.UInt128)">
+            <summary>Returns a value indicating whether this instance is equal to a specified value.</summary>
+            <param name="other">The value to compare to this instance.</param>
+            <returns>True if value equals the this instance; otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.Equals(System.UInt64)">
+            <summary>Returns a value indicating whether this instance is equal to a specified ulong value.</summary>
+            <param name="other">The value to compare to this instance.</param>
+            <returns>True if value equals the this instance; otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.Equals(System.Object)">
+            <summary>Returns a value indicating whether this instance is equal to a specified object.</summary>
+            <param name="obj">An object to compare to this instance.</param>
+            <returns>True if obj is an instance of UInt128 and equals the value of this instance; otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.GetHashCode">
+            <summary>Returns the hash code for this instance.</summary>
+            <returns>A 32-bit signed integer hash code.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.ToString">
+            <summary>Returns the string representation of this instance.</summary>
+            <returns>The string representation of this instance.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.CompareTo(System.Object)">
+            <summary>
+                Compares the current instance with another object of the same type and
+                returns an integer that indicates whether the current instance precedes, follows,
+                or occurs in the same position in the sort order as the other object.
+            </summary>
+            <param name="other">An object to compare with this instance.</param>
+            <returns>
+                A value that indicates the relative order of the itmes being compared.
+                The return value has these meanings: -1 This is less than other, 0 this equals
+                other, 1 this is greater than other.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.CompareTo(SoftWx.Numerics.UInt128)">
+            <summary>
+                Compares the current instance with another object of the same type and
+                returns an integer that indicates whether the current instance precedes, follows,
+                or occurs in the same position in the sort order as the other object.
+            </summary>
+            <param name="other">An object to compare with this instance.</param>
+            <returns>
+                A value that indicates the relative order of the itmes being compared.
+                The return value has these meanings: -1 This is less than other, 0 this equals
+                other, 1 this is greater than other.
+            </returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Explicit(SoftWx.Numerics.UInt128)~System.UInt64">
+            <summary>Defines an explicit conversion of a UInt128 value to an unsigned long value.</summary>
+            <remarks>Only the lower 64 bits is returned, which may result in loss of data.</remarks>
+            <param name="value"></param>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Implicit(System.UInt64)~SoftWx.Numerics.UInt128">
+            <summary>Defines an implicit conversion of an unsigned long value to a UInt128 value.</summary>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Equality(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Returns a value that indicates whether the two UInt128 are equal.</summary>
+            <param name="left">The first value to compare.</param>
+            <param name="right">The second value to compare.</param>
+            <returns>True if the values are equal, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Equality(SoftWx.Numerics.UInt128,System.UInt64)">
+            <summary>Returns a value that indicates whether the UInt128 is equal to a ulong value.</summary>
+            <param name="left">The first value to compare.</param>
+            <param name="right">The second value to compare.</param>
+            <returns>True if the values are equal, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Equality(System.UInt64,SoftWx.Numerics.UInt128)">
+            <summary>Returns a value that indicates whether the ulong value is equal to a UInt128.</summary>
+            <param name="left">The first value to compare.</param>
+            <param name="right">The second value to compare.</param>
+            <returns>True if the values are equal, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Inequality(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Returns a value that indicates whether the two UInt128 are not equal.</summary>
+            <param name="left">The first value to compare.</param>
+            <param name="right">The second value to compare.</param>
+            <returns>True if the values are not equal, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Inequality(SoftWx.Numerics.UInt128,System.UInt64)">
+            <summary>Returns a value that indicates whether the a UInt128 is not equal to a ulong value.</summary>
+            <param name="left">The first value to compare.</param>
+            <param name="right">The second value to compare.</param>
+            <returns>True if the values are not equal, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Inequality(System.UInt64,SoftWx.Numerics.UInt128)">
+            <summary>Returns a value that indicates whether the a ulong value is not equal to a UInt128.</summary>
+            <param name="left">The first value to compare.</param>
+            <param name="right">The second value to compare.</param>
+            <returns>True if the values are not equal, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_GreaterThan(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Returns a value that indicates whether a UInt128 value is greater than another UInt128 value.</summary>
+            <param name="left">The first value to compare.</param>
+            <param name="right">The second value to compare.</param>
+            <returns>True if the left is greater than right, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_LessThan(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Returns a value that indicates whether a UInt128 value is less than another UInt128 value.</summary>
+            <param name="left">The first value to compare.</param>
+            <param name="right">The second value to compare.</param>
+            <returns>True if the left is less than right, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_GreaterThanOrEqual(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Returns a value that indicates whether a UInt128 value is greater than or equal to another UInt128 value.</summary>
+            <param name="left">The first value to compare.</param>
+            <param name="right">The second value to compare.</param>
+            <returns>True if the left is greater than or equal to right, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_LessThanOrEqual(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Returns a value that indicates whether a UInt128 value is less than or equal to another UInt128 value.</summary>
+            <param name="left">The first value to compare.</param>
+            <param name="right">The second value to compare.</param>
+            <returns>True if the left is less than or equal to right, otherwise, false.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_OnesComplement(SoftWx.Numerics.UInt128)">
+            <summary>Returns the bitwise one's complement of a UInt128 value.</summary>
+            <param name="value">The value to be complemented.</param>
+            <returns>The bitwise one's complement of value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_UnaryNegation(SoftWx.Numerics.UInt128)">
+            <summary>Returns the bitwise two's complement of a UInt128 value.</summary>
+            <param name="value">The value to be complemented.</param>
+            <returns>The bitwise two's complement of value.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_BitwiseAnd(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Performs a bitwise And operation on two values.</summary>
+            <param name="left">The first value.</param>
+            <param name="right">The second value.</param>
+            <returns>The result of the bitwise And operation.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_BitwiseAnd(SoftWx.Numerics.UInt128,System.UInt64)">
+            <summary>Performs a bitwise And operation on two values.</summary>
+            <param name="left">The first value.</param>
+            <param name="right">The second value.</param>
+            <returns>The result of the bitwise And operation.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_BitwiseAnd(System.UInt64,SoftWx.Numerics.UInt128)">
+            <summary>Performs a bitwise And operation on two values.</summary>
+            <param name="left">The first value.</param>
+            <param name="right">The second value.</param>
+            <returns>The result of the bitwise And operation.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_BitwiseOr(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Performs a bitwise Or operation on two values.</summary>
+            <param name="left">The first value.</param>
+            <param name="right">The second value.</param>
+            <returns>The result of the bitwise Or operation.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_BitwiseOr(SoftWx.Numerics.UInt128,System.UInt64)">
+            <summary>Performs a bitwise Or operation on two values.</summary>
+            <param name="left">The first value.</param>
+            <param name="right">The second value.</param>
+            <returns>The result of the bitwise Or operation.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_BitwiseOr(System.UInt64,SoftWx.Numerics.UInt128)">
+            <summary>Performs a bitwise Or operation on two values.</summary>
+            <param name="left">The first value.</param>
+            <param name="right">The second value.</param>
+            <returns>The result of the bitwise Or operation.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_ExclusiveOr(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Performs a bitwise Xor operation on two values.</summary>
+            <param name="left">The first value.</param>
+            <param name="right">The second value.</param>
+            <returns>The result of the bitwise Xor operation.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_ExclusiveOr(SoftWx.Numerics.UInt128,System.UInt64)">
+            <summary>Performs a bitwise Xor operation on two values.</summary>
+            <param name="left">The first value.</param>
+            <param name="right">The second value.</param>
+            <returns>The result of the bitwise Xor operation.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_ExclusiveOr(System.UInt64,SoftWx.Numerics.UInt128)">
+            <summary>Performs a bitwise Xor operation on two values.</summary>
+            <param name="left">The first value.</param>
+            <param name="right">The second value.</param>
+            <returns>The result of the bitwise Xor operation.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_LeftShift(SoftWx.Numerics.UInt128,System.Int32)">
+            <summary>Shifts a UInt128 value a specified number of bits to the left.</summary>
+            <param name="value">The value whose bits are to be shifted.</param>
+            <param name="shift">The number of bits to shift value to the left.</param>
+            <returns>A value that has been shifted to the left by the specified number of bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_RightShift(SoftWx.Numerics.UInt128,System.Int32)">
+            <summary>Shifts a UInt128 value a specified number of bits to the right.</summary>
+            <param name="value">The value whose bits are to be shifted.</param>
+            <param name="shift">The number of bits to shift value to the right.</param>
+            <returns>A value that has been shifted to the right by the specified number of bits.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Addition(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Adds two specified UInt128 values.</summary>
+            <param name="left">The first value to add.</param>
+            <param name="right">The second value to add.</param>
+            <returns>The sum of left and right.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Addition(SoftWx.Numerics.UInt128,System.UInt64)">
+            <summary>Adds a ulong value to an UInt128 value.</summary>
+            <param name="left">The first value to add.</param>
+            <param name="right">The second value to add.</param>
+            <returns>The sum of left and right.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Addition(System.UInt64,SoftWx.Numerics.UInt128)">
+            <summary>Adds a UInt128 value to a ulong value.</summary>
+            <param name="left">The first value to add.</param>
+            <param name="right">The second value to add.</param>
+            <returns>The sum of left and right.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Subtraction(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Subtracts a UInt128 value from another UInt128 value.</summary>
+            <param name="left">The value to subtract from.</param>
+            <param name="right">The value to subtract.</param>
+            <returns>The value resulting from subtracting right from left.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Subtraction(SoftWx.Numerics.UInt128,System.UInt64)">
+            <summary>Subtracts a ulong value from a UInt128 value.</summary>
+            <param name="left">The value to subtract from.</param>
+            <param name="right">The value to subtract.</param>
+            <returns>The value resulting from subtracting right from left.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Increment(SoftWx.Numerics.UInt128)">
+            <summary>Increments a value by 1.</summary>
+            <param name="value">The value to be incremented.</param>
+            <returns>The value of the parameter incremented by 1.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Decrement(SoftWx.Numerics.UInt128)">
+            <summary>Decrements a value by 1.</summary>
+            <param name="value">The value to be decremented.</param>
+            <returns>The value of the parameter decremented by 1.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Multiply(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Multiplies two specified UInt128 values.</summary>
+            <param name="left">The first value to multiply.</param>
+            <param name="right">The second value to multiply.</param>
+            <returns>The productof multiplying left and right.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Multiply(SoftWx.Numerics.UInt128,System.UInt64)">
+            <summary>Multiplies a UInt128 value and a ulong value.</summary>
+            <param name="left">The first value to multiply.</param>
+            <param name="right">The second value to multiply.</param>
+            <returns>The productof multiplying left and right.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Multiply(System.UInt64,SoftWx.Numerics.UInt128)">
+            <summary>Multiplies a ulong value and a UInt128 value.</summary>
+            <param name="left">The first value to multiply.</param>
+            <param name="right">The second value to multiply.</param>
+            <returns>The productof multiplying left and right.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Division(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Divides a UInt128 value by another UInt128 value using integer division.</summary>
+            <param name="left">The value to be divided.</param>
+            <param name="right">The value to divide by.</param>
+            <returns>The integral result of the division.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Division(SoftWx.Numerics.UInt128,System.UInt64)">
+            <summary>Divides a UInt128 value by an unsigned long value using integer division.</summary>
+            <param name="left">The value to be divided.</param>
+            <param name="right">The value to divide by.</param>
+            <returns>The integral result of the division.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Division(SoftWx.Numerics.UInt128,System.UInt32)">
+            <summary>Divides a UInt128 value by an unsigned long value using integer division.</summary>
+            <param name="left">The value to be divided.</param>
+            <param name="right">The value to divide by.</param>
+            <returns>The integral result of the division.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Modulus(SoftWx.Numerics.UInt128,SoftWx.Numerics.UInt128)">
+            <summary>Returns the remainder that results from dividing one UInt128 value by another.</summary>
+            <param name="left">The value to be divided.</param>
+            <param name="right">The value to divide by.</param>
+            <returns>The remainder that results from the division.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Modulus(SoftWx.Numerics.UInt128,System.UInt64)">
+            <summary>Returns the remainder that results from dividing a UInt128 value by an unsigned long value.</summary>
+            <param name="left">The value to be divided.</param>
+            <param name="right">The value to divide by.</param>
+            <returns>The remainder that results from the division.</returns>
+        </member>
+        <member name="M:SoftWx.Numerics.UInt128.op_Modulus(SoftWx.Numerics.UInt128,System.UInt32)">
+            <summary>Returns the remainder that results from dividing a UInt128 value by an unsigned int value.</summary>
+            <param name="left">The value to be divided.</param>
+            <param name="right">The value to divide by.</param>
+            <returns>The remainder that results from the division.</returns>
+        </member>
+    </members>
+</doc>

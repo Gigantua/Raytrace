@@ -1,0 +1,176 @@
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Subnautica.jpg
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Monkey.babylon
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Engine2.exe.config
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Engine2.exe
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Engine2.pdb
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Newtonsoft.Json.dll
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.dll
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.DXGI.dll
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Mathematics.dll
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Newtonsoft.Json.xml
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.xml
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Direct2D1.xml
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.DXGI.xml
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Mathematics.xml
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.csprojResolveAssemblyReference.cache
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.Form1.resources
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.Properties.Resources.resources
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.csproj.GenerateResource.Cache
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.exe
+C:\Users\Infuehr\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.pdb
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Subnautica.jpg
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Horse.babylon
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Monkey.babylon
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\skull.babylon
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Engine2.exe.config
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Engine2.exe
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Engine2.pdb
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\GlmSharp.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\MetroFramework.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Newtonsoft.Json.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Remotion.Linq.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.DXGI.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Mathematics.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpVk.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpVk.Shanq.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Collections.Specialized.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.IO.FileSystem.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Numerics.Vectors.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Reflection.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Reflection.TypeExtensions.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.Extensions.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Threading.Thread.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.ValueTuple.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\GlmSharp.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Newtonsoft.Json.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Remotion.Linq.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Direct2D1.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.DXGI.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Mathematics.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpVk.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Numerics.Vectors.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.ValueTuple.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.Form1.resources
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.Properties.Resources.resources
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.Settings.resources
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.csproj.GenerateResource.Cache
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.exe
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.pdb
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Subnautica.jpg
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Horse.babylon
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Monkey.babylon
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\skull.babylon
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Engine2.exe.config
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Engine2.exe
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Engine2.pdb
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\GlmSharp.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Newtonsoft.Json.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Remotion.Linq.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.DXGI.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Mathematics.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpVk.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpVk.Shanq.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Collections.Specialized.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.IO.FileSystem.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Reflection.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Reflection.TypeExtensions.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.Extensions.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Threading.Thread.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.ValueTuple.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\GlmSharp.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Newtonsoft.Json.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Remotion.Linq.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Direct2D1.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.DXGI.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Mathematics.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpVk.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.ValueTuple.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.csprojAssemblyReference.cache
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.Form1.resources
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.Properties.Resources.resources
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.Settings.resources
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.csproj.GenerateResource.cache
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.csproj.CopyComplete
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.exe
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.pdb
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Subnautica.jpg
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Horse.babylon
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Monkey.babylon
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\skull.babylon
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Engine2.exe.config
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Engine2.exe
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Engine2.pdb
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\GlmSharp.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Remotion.Linq.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.DXGI.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Mathematics.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpVk.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpVk.Shanq.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Collections.Specialized.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.IO.FileSystem.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Reflection.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Reflection.TypeExtensions.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.Extensions.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Threading.Thread.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.ValueTuple.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\GlmSharp.xml
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Newtonsoft.Json.xml
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\Remotion.Linq.xml
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.xml
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Direct2D1.xml
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.DXGI.xml
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpDX.Mathematics.xml
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\SharpVk.xml
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\bin\Release\System.ValueTuple.xml
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.Form1.resources
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.Settings.resources
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.exe
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.pdb
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine2\obj\Release\Engine2.csproj.CopyComplete

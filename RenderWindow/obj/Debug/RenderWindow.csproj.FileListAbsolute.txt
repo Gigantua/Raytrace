@@ -1,0 +1,16 @@
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\obj\Debug\RenderWindow.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\obj\Debug\RenderWindow.Properties.Resources.resources
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\obj\Debug\RenderWindow.csproj.GenerateResource.Cache
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\bin\Debug\RenderWindow.exe.config
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\bin\Debug\RenderWindow.exe
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\bin\Debug\RenderWindow.pdb
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\bin\Debug\SharpDX.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\bin\Debug\SharpDX.DXGI.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\bin\Debug\SharpDX.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\bin\Debug\SharpDX.DXGI.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\obj\Debug\RenderWindow.exe
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\RenderWindow\obj\Debug\RenderWindow.pdb

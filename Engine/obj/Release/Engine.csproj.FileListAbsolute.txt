@@ -1,0 +1,108 @@
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\obj\Release\Engine.Form1.resources
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\obj\Release\Engine.Properties.Resources.resources
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\obj\Release\Engine.csproj.GenerateResource.Cache
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\bin\Release\Engine.exe.config
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\bin\Release\Engine.exe
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\bin\Release\Engine.pdb
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\obj\Release\Engine.csprojResolveAssemblyReference.cache
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\obj\Release\Engine.exe
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\obj\Release\Engine.pdb
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\Subnautica.jpg
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\Engine.exe.config
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\Engine.exe
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\Engine.pdb
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\MoreLinq.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\NetCoreEx.BinaryExtensions.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\NetCoreEx.Geometry.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Desktop.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Direct3D11.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.DirectComposition.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.DXGI.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\System.Numerics.Vectors.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\System.ValueTuple.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\WinApi.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\WinApi.DxUtils.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\MoreLinq.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Desktop.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Direct2D1.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Direct3D11.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.DirectComposition.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.DXGI.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\System.Numerics.Vectors.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\System.ValueTuple.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.MainWindow.resources
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.Properties.Resources.resources
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.csproj.GenerateResource.Cache
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.exe
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.pdb
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\Subnautica.jpg
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\Engine.exe.config
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\Engine.exe
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\Engine.pdb
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\MoreLinq.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\NetCoreEx.BinaryExtensions.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\NetCoreEx.Geometry.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Desktop.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Direct3D11.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.DirectComposition.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.DXGI.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\System.Numerics.Vectors.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\System.ValueTuple.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\WinApi.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\WinApi.DxUtils.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\MoreLinq.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Desktop.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Direct2D1.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Direct3D11.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.DirectComposition.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.DXGI.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\System.Numerics.Vectors.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\System.ValueTuple.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.csprojAssemblyReference.cache
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.MainWindow.resources
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.Properties.Resources.resources
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.csproj.GenerateResource.cache
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.csproj.CoreCompileInputs.cache
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.csproj.CopyComplete
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.exe
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.pdb
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\Subnautica.jpg
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\Engine.exe.config
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\Engine.exe
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\Engine.pdb
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\MoreLinq.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\NetCoreEx.BinaryExtensions.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\NetCoreEx.Geometry.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Desktop.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Direct3D11.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.DirectComposition.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.DXGI.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\System.ValueTuple.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\WinApi.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\WinApi.DxUtils.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\MoreLinq.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Desktop.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Direct2D1.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.Direct3D11.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.DirectComposition.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\SharpDX.DXGI.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\bin\Release\System.ValueTuple.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.csprojAssemblyReference.cache
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.MainWindow.resources
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.Properties.Resources.resources
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.csproj.GenerateResource.cache
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.csproj.CopyComplete
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.exe
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\Engine\obj\Release\Engine.pdb

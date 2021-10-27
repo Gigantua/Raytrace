@@ -1,0 +1,330 @@
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avcodec-57.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avdevice-57.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avfilter-6.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avformat-57.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avutil-55.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\postproc-54.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\swresample-2.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\swscale-4.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.dll.config
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.exe.config
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.exe
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.pdb
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.FFMPEG.x64.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\FSharp.Core.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.DXGI.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SoftWx.Numerics.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.IO.Compression.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Net.Http.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.FFMPEG.x64.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\FSharp.Core.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.DXGI.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SoftWx.Numerics.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.Form1.resources
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.Properties.Resources.resources
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csproj.GenerateResource.Cache
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.exe
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.pdb
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Skybox.jpg
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Earth.jpg
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Earth.jpg
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avcodec-57.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avdevice-57.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avfilter-6.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avformat-57.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avutil-55.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\postproc-54.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\swresample-2.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\swscale-4.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Skybox.jpg
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.dll.config
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.exe.config
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.exe
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.pdb
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.FFMPEG.x64.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SoftWx.Numerics.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.AppContext.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Console.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.IO.Compression.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.IO.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Linq.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Net.Http.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Net.Sockets.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Reflection.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.xml
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.xml
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.FFMPEG.x64.xml
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.xml
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SoftWx.Numerics.xml
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.Form1.resources
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.Properties.Resources.resources
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csproj.GenerateResource.Cache
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.exe
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.pdb
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.ObjectProperties.resources
+C:\Users\Daniel\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.ObjectProperties.resources
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.exe.config
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Data.Common.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Net.Sockets.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Security.SecureString.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Memory.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Memory.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Earth.jpg
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Skybox.jpg
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avcodec-57.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avdevice-57.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avfilter-6.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avformat-57.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avutil-55.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\postproc-54.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\swresample-2.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\swscale-4.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.dll.config
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.exe.config
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.exe
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.pdb
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Data.Common.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.IO.Compression.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Net.Http.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Net.Sockets.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Security.SecureString.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.FFMPEG.x64.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\FSharp.Core.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.DXGI.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SoftWx.Numerics.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Memory.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.FFMPEG.x64.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\FSharp.Core.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.DXGI.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SoftWx.Numerics.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Memory.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csprojAssemblyReference.cache
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.exe.config
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.Form1.resources
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.ObjectProperties.resources
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.Properties.Resources.resources
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csproj.GenerateResource.cache
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csproj.CoreCompileInputs.cache
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csproj.CopyComplete
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.exe
+C:\Users\danie\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.pdb
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.exe
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.pdb
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Earth.jpg
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Skybox.jpg
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.dll.config
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.exe.config
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.exe
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.pdb
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Data.Common.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.IO.Compression.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Net.Http.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Net.Sockets.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Security.SecureString.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.FFMPEG.x64.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SoftWx.Numerics.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Memory.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.xml
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.xml
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.FFMPEG.x64.xml
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.xml
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SoftWx.Numerics.xml
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Memory.xml
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csprojAssemblyReference.cache
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.exe.config
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.Form1.resources
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.ObjectProperties.resources
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.Properties.Resources.resources
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csproj.GenerateResource.cache
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Google Drive (dangi12012@hotmail.com)\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csproj.CopyComplete
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Earth.jpg
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Skybox.jpg
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avcodec-57.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avdevice-57.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avfilter-6.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avformat-57.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\avutil-55.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\postproc-54.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\swresample-2.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\swscale-4.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.dll.config
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.exe.config
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.exe
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.pdb
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.FFMPEG.x64.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SoftWx.Numerics.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Memory.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\Accord.Video.FFMPEG.x64.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SoftWx.Numerics.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Memory.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csprojAssemblyReference.cache
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.Form1.resources
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.ObjectProperties.resources
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.Properties.Resources.resources
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csproj.GenerateResource.cache
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.csproj.CopyComplete
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.exe
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.pdb
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.Intrinsics.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Runtime.Intrinsics.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Buffers.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.pdb
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Buffers.xml
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.exe.manifest
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\CPU3D.application
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.exe.manifest
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\obj\Debug\CPU3D.application
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Resources.Extensions.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\CPU3D\bin\Debug\System.Resources.Extensions.xml

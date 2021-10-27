@@ -1,0 +1,41 @@
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\obj\Debug\Engine.Properties.Resources.resources
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\obj\Debug\Engine.csproj.GenerateResource.Cache
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\bin\Debug\Engine.exe.config
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\bin\Debug\Engine.exe
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\bin\Debug\Engine.pdb
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\obj\Debug\Engine.exe
+c:\users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\obj\Debug\Engine.pdb
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\Engine\Engine\obj\Debug\Engine.MainWindow.resources
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\Subnautica.jpg
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\Engine.exe.config
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\Engine.exe
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\Engine.pdb
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\MoreLinq.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\NetCoreEx.BinaryExtensions.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\NetCoreEx.Geometry.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\SharpDX.Desktop.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\SharpDX.DirectComposition.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\SharpDX.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\SharpDX.DXGI.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\System.ValueTuple.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\WinApi.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\WinApi.DxUtils.dll
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\MoreLinq.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\SharpDX.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\SharpDX.Desktop.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\SharpDX.DirectComposition.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\SharpDX.DXGI.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\bin\Debug\System.ValueTuple.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\obj\Debug\Engine.MainWindow.resources
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\obj\Debug\Engine.Properties.Resources.resources
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\obj\Debug\Engine.csproj.GenerateResource.Cache
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\obj\Debug\Engine.exe
+C:\Users\danie\OneDrive\Documents\Visual Studio Debug\CPU 3D Engine\Engine\obj\Debug\Engine.pdb

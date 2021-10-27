@@ -1,0 +1,4 @@
+﻿19.6ms stock
+21.1ms Own Vector
+
+79.3ms stock 1024x768

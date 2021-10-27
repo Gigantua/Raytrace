@@ -1,0 +1,39 @@
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\RayForm.exe
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\RayForm.deps.json
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\RayForm.runtimeconfig.json
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\RayForm.runtimeconfig.dev.json
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\RayForm.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\RayForm.pdb
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\SharpDX.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.csprojAssemblyReference.cache
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.MainForm.resources
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.csproj.GenerateResource.cache
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.AssemblyInfoInputs.cache
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.AssemblyInfo.cs
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.csproj.CopyComplete
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.dll
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.pdb
+C:\Users\Daniel\Google Drive\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\RayForm.exe
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\RayForm.deps.json
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\RayForm.runtimeconfig.json
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\RayForm.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\RayForm.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\RayForm.pdb
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\SharpDX.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\bin\Release\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.MainForm.resources
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.dll
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.pdb
+C:\Users\Daniel\Desktop\Kaposigasse\Dokumente\Visual Studio Debug\CPU 3D Engine\RayForm\obj\Release\netcoreapp3.1\RayForm.genruntimeconfig.cache
